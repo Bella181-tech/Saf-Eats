@@ -1,0 +1,8 @@
+{
+  "name": "SafEats",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "ac87f139"
+}
